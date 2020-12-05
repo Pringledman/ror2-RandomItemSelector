@@ -7,6 +7,7 @@ Each player is given a single random item for each rarity per round. Open chests
 
 Example:
 Player1's items:
+
 White: Bundle of Fireworks
 Green: Chronobauble
 Red: Wake of Vultures
