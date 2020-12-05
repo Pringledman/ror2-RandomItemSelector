@@ -3,6 +3,8 @@ use colored::Colorize;
 
 
 fn main() {
+    let person = vec!["Player1", "Player2"];
+
 
     let white_items = vec!["Armor Piercing Rounds", "Backup Magazine", "Fresh Meat",
                            "Rusted Key", "Topaz Broach", "Sticky Bomb", "Focus Crystal",
@@ -32,7 +34,6 @@ fn main() {
                           "Irradiant Pearl", "Little Disciple", "Mired Urn", "Molten Perforator",
                           "Pearl", "Queen's Gland", "Shatterspleen", "Titanic Knurl"];
 
-    let person = vec!["Player1", "Player2"];
     let white_item_number = white_items.len();
     let green_item_number = green_items.len();
     let red_item_number = red_items.len();
