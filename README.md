@@ -5,7 +5,7 @@ Made this for a gamemode in Risk of Rain 2 my friends and I came up with.
 COMMAND ARTIFACT REQUIRED.
 Each player is given a single random item for each rarity per round. Open chests as normal but each player must stack the random items given at the beginning of the stage.
 
-	Example:
+Example:
 	Player1's items:
 	White: Bundle of Fireworks
 	Green: Chronobauble
